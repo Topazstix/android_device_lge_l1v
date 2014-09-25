@@ -7,3 +7,4 @@ include $(CLEAR_VARS)
 # include the non-open-source counterpart to this file
 # -include vendor/lge/l1v/AndroidBoardVendor.mk
 # Vendor tree doesnt exist
+# TEST
